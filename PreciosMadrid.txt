@@ -1,0 +1,1233 @@
+Quarter	District	Price
+2001 1Q	Arganzuela	1920.4
+2001 1Q	Barajas	1661.9
+2001 1Q	Carabanchel	1358.6
+2001 1Q	Centro	1857.4
+2001 1Q	Chamartin	2523.7
+2001 1Q	Chamberi	2264.8
+2001 1Q	Ciudad Lineal	2006.9
+2001 1Q	Fuencarral	2060.1
+2001 1Q	Hortaleza	2098.3
+2001 1Q	Latina	1473.9
+2001 1Q	Madrid	1848.6
+2001 1Q	Moncloa	2019.1
+2001 1Q	Moratalaz	1672.7
+2001 1Q	Puente de Vallecas	1344.1
+2001 1Q	Retiro	2152.4
+2001 1Q	Salamanca	2437.8
+2001 1Q	San Blas	1666.3
+2001 1Q	Tetuan	2063.8
+2001 1Q	Usera	1292.1
+2001 1Q	Vicalvaro	1505.9
+2001 1Q	Villa de Vallecas	1270.6
+2001 1Q	Villaverde	1110.5
+2001 2Q	Arganzuela	1989.8
+2001 2Q	Barajas	1679.8
+2001 2Q	Carabanchel	1413
+2001 2Q	Centro	1988
+2001 2Q	Chamartin	2660.9
+2001 2Q	Chamberi	2455
+2001 2Q	Ciudad Lineal	2073.4
+2001 2Q	Fuencarral	2056.8
+2001 2Q	Hortaleza	2148.8
+2001 2Q	Latina	1527.7
+2001 2Q	Madrid	1994.9
+2001 2Q	Moncloa	2127.1
+2001 2Q	Moratalaz	1716.4
+2001 2Q	Puente de Vallecas	1423.2
+2001 2Q	Retiro	2339.7
+2001 2Q	Salamanca	2533.1
+2001 2Q	San Blas	1743.7
+2001 2Q	Tetuan	2254
+2001 2Q	Usera	1331.4
+2001 2Q	Vicalvaro	1523.7
+2001 2Q	Villa de Vallecas	1451
+2001 2Q	Villaverde	1179.8
+2001 3Q	Arganzuela	1974.7
+2001 3Q	Barajas	1842.4
+2001 3Q	Carabanchel	1481.5
+2001 3Q	Centro	2061
+2001 3Q	Chamartin	2857.2
+2001 3Q	Chamberi	2446.6
+2001 3Q	Ciudad Lineal	2254.5
+2001 3Q	Fuencarral	2047.4
+2001 3Q	Hortaleza	2104.2
+2001 3Q	Latina	1572.6
+2001 3Q	Madrid	2077.1
+2001 3Q	Moncloa	2295.5
+2001 3Q	Moratalaz	1742.1
+2001 3Q	Puente de Vallecas	1475
+2001 3Q	Retiro	2425.8
+2001 3Q	Salamanca	2615.4
+2001 3Q	San Blas	1805.7
+2001 3Q	Tetuan	2287.2
+2001 3Q	Usera	1409.8
+2001 3Q	Vicalvaro	1689.4
+2001 3Q	Villa de Vallecas	1398.1
+2001 3Q	Villaverde	1279.5
+2001 4Q	Arganzuela	2027.4
+2001 4Q	Barajas	1964.7
+2001 4Q	Carabanchel	1572.9
+2001 4Q	Centro	2155.5
+2001 4Q	Chamartin	3006.5
+2001 4Q	Chamberi	2695.1
+2001 4Q	Ciudad Lineal	2277.1
+2001 4Q	Fuencarral	2174.2
+2001 4Q	Hortaleza	2192.9
+2001 4Q	Latina	1644.9
+2001 4Q	Madrid	2182.6
+2001 4Q	Moncloa	2250.9
+2001 4Q	Moratalaz	1826.3
+2001 4Q	Puente de Vallecas	1530.8
+2001 4Q	Retiro	2504.3
+2001 4Q	Salamanca	2826
+2001 4Q	San Blas	1851.6
+2001 4Q	Tetuan	2321
+2001 4Q	Usera	1532.7
+2001 4Q	Vicalvaro	1664.5
+2001 4Q	Villa de Vallecas	1458.8
+2001 4Q	Villaverde	1342.9
+2002 1Q	Arganzuela	2150.8
+2002 1Q	Barajas	2082.5
+2002 1Q	Carabanchel	1651.5
+2002 1Q	Centro	2292
+2002 1Q	Chamartin	2836.3
+2002 1Q	Chamberi	2780.2
+2002 1Q	Ciudad Lineal	2372.4
+2002 1Q	Fuencarral	2432.3
+2002 1Q	Hortaleza	2179.8
+2002 1Q	Latina	1757.1
+2002 1Q	Madrid	2291.1
+2002 1Q	Moncloa	2643.6
+2002 1Q	Moratalaz	1920.8
+2002 1Q	Puente de Vallecas	1599.1
+2002 1Q	Retiro	2557.6
+2002 1Q	Salamanca	2902.7
+2002 1Q	San Blas	1908.6
+2002 1Q	Tetuan	2474.4
+2002 1Q	Usera	1555.1
+2002 1Q	Vicalvaro	1934.8
+2002 1Q	Villa de Vallecas	1534.6
+2002 1Q	Villaverde	1340.1
+2002 2Q	Arganzuela	2244.3
+2002 2Q	Barajas	2151.7
+2002 2Q	Carabanchel	1799.2
+2002 2Q	Centro	2454.7
+2002 2Q	Chamartin	3095.3
+2002 2Q	Chamberi	2901.7
+2002 2Q	Ciudad Lineal	2495.9
+2002 2Q	Fuencarral	2562.3
+2002 2Q	Hortaleza	2445.4
+2002 2Q	Latina	1862.8
+2002 2Q	Madrid	2476.2
+2002 2Q	Moncloa	2679.2
+2002 2Q	Moratalaz	1990.9
+2002 2Q	Puente de Vallecas	1698.2
+2002 2Q	Retiro	2711
+2002 2Q	Salamanca	3113.1
+2002 2Q	San Blas	1949.8
+2002 2Q	Tetuan	2483.7
+2002 2Q	Usera	1731.9
+2002 2Q	Vicalvaro	2012.4
+2002 2Q	Villa de Vallecas	1543.9
+2002 2Q	Villaverde	1436.4
+2002 3Q	Arganzuela	2425.7
+2002 3Q	Barajas	2542.6
+2002 3Q	Carabanchel	1837.5
+2002 3Q	Centro	2523
+2002 3Q	Chamartin	3160.8
+2002 3Q	Chamberi	3180.4
+2002 3Q	Ciudad Lineal	2674.5
+2002 3Q	Fuencarral	2675.4
+2002 3Q	Hortaleza	2422
+2002 3Q	Latina	2028.3
+2002 3Q	Madrid	2603.4
+2002 3Q	Moncloa	2621.2
+2002 3Q	Moratalaz	2061
+2002 3Q	Puente de Vallecas	1733.7
+2002 3Q	Retiro	2847.5
+2002 3Q	Salamanca	3273
+2002 3Q	San Blas	2226.6
+2002 3Q	Tetuan	2783.9
+2002 3Q	Usera	1897.4
+2002 3Q	Vicalvaro	2062.9
+2002 3Q	Villa de Vallecas	1822.6
+2002 3Q	Villaverde	1692.6
+2002 4Q	Arganzuela	2656.7
+2002 4Q	Barajas	2593.1
+2002 4Q	Carabanchel	2069.5
+2002 4Q	Centro	2789.5
+2002 4Q	Chamartin	3529.2
+2002 4Q	Chamberi	3353.4
+2002 4Q	Ciudad Lineal	2818.5
+2002 4Q	Fuencarral	2807.3
+2002 4Q	Hortaleza	2757.7
+2002 4Q	Latina	2168.6
+2002 4Q	Madrid	2810.1
+2002 4Q	Moncloa	2831.6
+2002 4Q	Moratalaz	2315.4
+2002 4Q	Puente de Vallecas	1980.6
+2002 4Q	Retiro	3045.7
+2002 4Q	Salamanca	3468.4
+2002 4Q	San Blas	2346.3
+2002 4Q	Tetuan	3024.2
+2002 4Q	Usera	2032.1
+2002 4Q	Vicalvaro	2040.5
+2002 4Q	Villa de Vallecas	1862.8
+2002 4Q	Villaverde	1736.5
+2003 1Q	Arganzuela	2744.4
+2003 1Q	Barajas	2605.7
+2003 1Q	Carabanchel	2162.6
+2003 1Q	Centro	2953.9
+2003 1Q	Chamartin	3578.9
+2003 1Q	Chamberi	3407.7
+2003 1Q	Ciudad Lineal	2965.5
+2003 1Q	Fuencarral	2951.2
+2003 1Q	Hortaleza	2746.4
+2003 1Q	Latina	2261.7
+2003 1Q	Madrid	2925.4
+2003 1Q	Moncloa	2976.6
+2003 1Q	Moratalaz	2493.6
+2003 1Q	Puente de Vallecas	2047.5
+2003 1Q	Retiro	3132.3
+2003 1Q	Salamanca	3721
+2003 1Q	San Blas	2554.3
+2003 1Q	Tetuan	2969.5
+2003 1Q	Usera	2112.1
+2003 1Q	Vicalvaro	2189.9
+2003 1Q	Villa de Vallecas	2021
+2003 1Q	Villaverde	1801.9
+2003 2Q	Arganzuela	2845.1
+2003 2Q	Barajas	2743.2
+2003 2Q	Carabanchel	2240.6
+2003 2Q	Centro	2965.1
+2003 2Q	Chamartin	3676.7
+2003 2Q	Chamberi	3613.8
+2003 2Q	Ciudad Lineal	3078.6
+2003 2Q	Fuencarral	2958.9
+2003 2Q	Hortaleza	2863.3
+2003 2Q	Latina	2365.7
+2003 2Q	Madrid	3026.1
+2003 2Q	Moncloa	3151.4
+2003 2Q	Moratalaz	2531.1
+2003 2Q	Puente de Vallecas	2197.9
+2003 2Q	Retiro	3259.1
+2003 2Q	Salamanca	3733.7
+2003 2Q	San Blas	2581.3
+2003 2Q	Tetuan	3069.3
+2003 2Q	Usera	2197.5
+2003 2Q	Vicalvaro	2267.3
+2003 2Q	Villa de Vallecas	2111.4
+2003 2Q	Villaverde	1888.7
+2003 3Q	Arganzuela	2999
+2003 3Q	Barajas	2935.2
+2003 3Q	Carabanchel	2354.4
+2003 3Q	Centro	3129.1
+2003 3Q	Chamartin	3849.8
+2003 3Q	Chamberi	3729.4
+2003 3Q	Ciudad Lineal	3079
+2003 3Q	Fuencarral	3063.6
+2003 3Q	Hortaleza	2936
+2003 3Q	Latina	2445.3
+2003 3Q	Madrid	3161.1
+2003 3Q	Moncloa	3236.5
+2003 3Q	Moratalaz	2534.9
+2003 3Q	Puente de Vallecas	2298.8
+2003 3Q	Retiro	3395.5
+2003 3Q	Salamanca	3915.1
+2003 3Q	San Blas	2650.6
+2003 3Q	Tetuan	3271.8
+2003 3Q	Usera	2381
+2003 3Q	Vicalvaro	2555.8
+2003 3Q	Villa de Vallecas	2250.2
+2003 3Q	Villaverde	1930.5
+2003 4Q	Arganzuela	3144.5
+2003 4Q	Barajas	2952.5
+2003 4Q	Carabanchel	2496.4
+2003 4Q	Centro	3196.7
+2003 4Q	Chamartin	4041.1
+2003 4Q	Chamberi	3962.5
+2003 4Q	Ciudad Lineal	3311.6
+2003 4Q	Fuencarral	3283
+2003 4Q	Hortaleza	3045.9
+2003 4Q	Latina	2500.4
+2003 4Q	Madrid	3295.7
+2003 4Q	Moncloa	3362.1
+2003 4Q	Moratalaz	2673.4
+2003 4Q	Puente de Vallecas	2430.2
+2003 4Q	Retiro	3598
+2003 4Q	Salamanca	3960
+2003 4Q	San Blas	2749.5
+2003 4Q	Tetuan	3309.7
+2003 4Q	Usera	2424.2
+2003 4Q	Vicalvaro	2811.7
+2003 4Q	Villa de Vallecas	2389.8
+2003 4Q	Villaverde	2132.7
+2004 1Q	Arganzuela	3236
+2004 1Q	Barajas	2928
+2004 1Q	Carabanchel	2570.3
+2004 1Q	Centro	3347.4
+2004 1Q	Chamartin	4078.5
+2004 1Q	Chamberi	4016
+2004 1Q	Ciudad Lineal	3230.9
+2004 1Q	Fuencarral	3295.6
+2004 1Q	Hortaleza	3118.8
+2004 1Q	Latina	2430.2
+2004 1Q	Madrid	3369.3
+2004 1Q	Moncloa	3630
+2004 1Q	Moratalaz	2746.6
+2004 1Q	Puente de Vallecas	2492.4
+2004 1Q	Retiro	3741.5
+2004 1Q	Salamanca	4140.6
+2004 1Q	San Blas	2897.7
+2004 1Q	Tetuan	3462.1
+2004 1Q	Usera	2520.8
+2004 1Q	Vicalvaro	2747.1
+2004 1Q	Villa de Vallecas	2356.6
+2004 1Q	Villaverde	2280.6
+2004 2Q	Arganzuela	3277.3
+2004 2Q	Barajas	2975.7
+2004 2Q	Carabanchel	2620.6
+2004 2Q	Centro	3436.7
+2004 2Q	Chamartin	4180.4
+2004 2Q	Chamberi	4066.4
+2004 2Q	Ciudad Lineal	3300.2
+2004 2Q	Fuencarral	3357.6
+2004 2Q	Hortaleza	3210.3
+2004 2Q	Latina	2532.3
+2004 2Q	Madrid	3387
+2004 2Q	Moncloa	3574.3
+2004 2Q	Moratalaz	2798
+2004 2Q	Puente de Vallecas	2531.9
+2004 2Q	Retiro	3629
+2004 2Q	Salamanca	4151.8
+2004 2Q	San Blas	2968.7
+2004 2Q	Tetuan	3401
+2004 2Q	Usera	2545.3
+2004 2Q	Vicalvaro	2721.1
+2004 2Q	Villa de Vallecas	2375.6
+2004 2Q	Villaverde	2398.3
+2004 3Q	Arganzuela	3285.1
+2004 3Q	Barajas	3100.5
+2004 3Q	Carabanchel	2624
+2004 3Q	Centro	3464
+2004 3Q	Chamartin	4139.8
+2004 3Q	Chamberi	4217.4
+2004 3Q	Ciudad Lineal	3352.4
+2004 3Q	Fuencarral	3396.5
+2004 3Q	Hortaleza	3224.9
+2004 3Q	Latina	2653.9
+2004 3Q	Madrid	3434.3
+2004 3Q	Moncloa	3520.9
+2004 3Q	Moratalaz	2916.8
+2004 3Q	Puente de Vallecas	2625.5
+2004 3Q	Retiro	3722
+2004 3Q	Salamanca	4226.1
+2004 3Q	San Blas	2971.2
+2004 3Q	Tetuan	3458.6
+2004 3Q	Usera	2612.5
+2004 3Q	Vicalvaro	2741.7
+2004 3Q	Villa de Vallecas	2437.8
+2004 3Q	Villaverde	2411.2
+2004 4Q	Arganzuela	3401.5
+2004 4Q	Barajas	3219.3
+2004 4Q	Carabanchel	2643.3
+2004 4Q	Centro	3619.3
+2004 4Q	Chamartin	4232.2
+2004 4Q	Chamberi	4229.8
+2004 4Q	Ciudad Lineal	3348.7
+2004 4Q	Fuencarral	3428.4
+2004 4Q	Hortaleza	3343
+2004 4Q	Latina	2777
+2004 4Q	Madrid	3541.3
+2004 4Q	Moncloa	3645.2
+2004 4Q	Moratalaz	2930.8
+2004 4Q	Puente de Vallecas	2617.9
+2004 4Q	Retiro	3823.9
+2004 4Q	Salamanca	4311
+2004 4Q	San Blas	3015.2
+2004 4Q	Tetuan	3582.7
+2004 4Q	Usera	2577.3
+2004 4Q	Vicalvaro	2903.7
+2004 4Q	Villa de Vallecas	2529.8
+2004 4Q	Villaverde	2528
+2005 1Q	Arganzuela	3498.5
+2005 1Q	Barajas	3292.2
+2005 1Q	Carabanchel	2736.2
+2005 1Q	Centro	3694
+2005 1Q	Chamartin	4240.6
+2005 1Q	Chamberi	4262.2
+2005 1Q	Ciudad Lineal	3424.3
+2005 1Q	Fuencarral	3470.4
+2005 1Q	Hortaleza	3351.6
+2005 1Q	Latina	2825.2
+2005 1Q	Madrid	3596
+2005 1Q	Moncloa	3769.6
+2005 1Q	Moratalaz	2930.5
+2005 1Q	Puente de Vallecas	2662.5
+2005 1Q	Retiro	3855.9
+2005 1Q	Salamanca	4459.9
+2005 1Q	San Blas	3124.4
+2005 1Q	Tetuan	3661.9
+2005 1Q	Usera	2689
+2005 1Q	Vicalvaro	2898
+2005 1Q	Villa de Vallecas	2597.6
+2005 1Q	Villaverde	2534.6
+2005 2Q	Arganzuela	3504.3
+2005 2Q	Barajas	3452.9
+2005 2Q	Carabanchel	2726.3
+2005 2Q	Centro	3784.8
+2005 2Q	Chamartin	4366.4
+2005 2Q	Chamberi	4274.7
+2005 2Q	Ciudad Lineal	3498.7
+2005 2Q	Fuencarral	3502.8
+2005 2Q	Hortaleza	3395.4
+2005 2Q	Latina	2876.4
+2005 2Q	Madrid	3638.1
+2005 2Q	Moncloa	3800.7
+2005 2Q	Moratalaz	2994.4
+2005 2Q	Puente de Vallecas	2736
+2005 2Q	Retiro	3924.5
+2005 2Q	Salamanca	4467.9
+2005 2Q	San Blas	3176.7
+2005 2Q	Tetuan	3673.7
+2005 2Q	Usera	2746.7
+2005 2Q	Vicalvaro	2954.1
+2005 2Q	Villa de Vallecas	2663.1
+2005 2Q	Villaverde	2532.5
+2005 3Q	Arganzuela	3595.2
+2005 3Q	Barajas	3365.8
+2005 3Q	Carabanchel	2777.5
+2005 3Q	Centro	3841.3
+2005 3Q	Chamartin	4423.8
+2005 3Q	Chamberi	4436.2
+2005 3Q	Ciudad Lineal	3580.6
+2005 3Q	Fuencarral	3471.7
+2005 3Q	Hortaleza	3476.2
+2005 3Q	Latina	2967.6
+2005 3Q	Madrid	3722.4
+2005 3Q	Moncloa	3854
+2005 3Q	Moratalaz	3044.7
+2005 3Q	Puente de Vallecas	2842
+2005 3Q	Retiro	4012
+2005 3Q	Salamanca	4544
+2005 3Q	San Blas	3266.7
+2005 3Q	Tetuan	3748.1
+2005 3Q	Usera	2792.6
+2005 3Q	Vicalvaro	3025
+2005 3Q	Villa de Vallecas	2737.4
+2005 3Q	Villaverde	2575.7
+2005 4Q	Arganzuela	3674
+2005 4Q	Barajas	3432.9
+2005 4Q	Carabanchel	2855.1
+2005 4Q	Centro	4011.1
+2005 4Q	Chamartin	4526.2
+2005 4Q	Chamberi	4516.5
+2005 4Q	Ciudad Lineal	3705.3
+2005 4Q	Fuencarral	3593.4
+2005 4Q	Hortaleza	3567.4
+2005 4Q	Latina	2990.2
+2005 4Q	Madrid	3799
+2005 4Q	Moncloa	3924.6
+2005 4Q	Moratalaz	3108.1
+2005 4Q	Puente de Vallecas	2980.5
+2005 4Q	Retiro	4061.4
+2005 4Q	Salamanca	4552.4
+2005 4Q	San Blas	3354.4
+2005 4Q	Tetuan	3764.8
+2005 4Q	Usera	2903.4
+2005 4Q	Vicalvaro	3145.3
+2005 4Q	Villa de Vallecas	2879.6
+2005 4Q	Villaverde	2657.3
+2006 1Q	Arganzuela	3781.2
+2006 1Q	Barajas	3445.1
+2006 1Q	Carabanchel	2923.7
+2006 1Q	Centro	4145.2
+2006 1Q	Chamartin	4609.3
+2006 1Q	Chamberi	4658.4
+2006 1Q	Ciudad Lineal	3695.5
+2006 1Q	Fuencarral	3743.4
+2006 1Q	Hortaleza	3658.9
+2006 1Q	Latina	3096.1
+2006 1Q	Madrid	3869.3
+2006 1Q	Moncloa	4017.6
+2006 1Q	Moratalaz	3242.8
+2006 1Q	Puente de Vallecas	3018.8
+2006 1Q	Retiro	4136.8
+2006 1Q	Salamanca	4659.5
+2006 1Q	San Blas	3370.1
+2006 1Q	Tetuan	3899.9
+2006 1Q	Usera	2981.7
+2006 1Q	Vicalvaro	3201.3
+2006 1Q	Villa de Vallecas	2997.6
+2006 1Q	Villaverde	2672.9
+2006 2Q	Arganzuela	3828.3
+2006 2Q	Barajas	3514.8
+2006 2Q	Carabanchel	3114.4
+2006 2Q	Centro	4279.6
+2006 2Q	Chamartin	4701.3
+2006 2Q	Chamberi	4739
+2006 2Q	Ciudad Lineal	3789.2
+2006 2Q	Fuencarral	3830.3
+2006 2Q	Hortaleza	3673.1
+2006 2Q	Latina	3166.7
+2006 2Q	Madrid	3946.9
+2006 2Q	Moncloa	4079.1
+2006 2Q	Moratalaz	3323.6
+2006 2Q	Puente de Vallecas	3092.2
+2006 2Q	Retiro	4239.5
+2006 2Q	Salamanca	4722.6
+2006 2Q	San Blas	3413.6
+2006 2Q	Tetuan	3964
+2006 2Q	Usera	3001.1
+2006 2Q	Vicalvaro	3294.4
+2006 2Q	Villa de Vallecas	3045.6
+2006 2Q	Villaverde	2764
+2006 3Q	Arganzuela	3903.5
+2006 3Q	Barajas	3554.2
+2006 3Q	Carabanchel	3161.2
+2006 3Q	Centro	4261.9
+2006 3Q	Chamartin	4668.8
+2006 3Q	Chamberi	4752.4
+2006 3Q	Ciudad Lineal	3804.7
+2006 3Q	Fuencarral	3830.9
+2006 3Q	Hortaleza	3760.6
+2006 3Q	Latina	3226.7
+2006 3Q	Madrid	3969.3
+2006 3Q	Moncloa	4259.4
+2006 3Q	Moratalaz	3332.5
+2006 3Q	Puente de Vallecas	3109.4
+2006 3Q	Retiro	4321.2
+2006 3Q	Salamanca	4763.7
+2006 3Q	San Blas	3366.4
+2006 3Q	Tetuan	3955.1
+2006 3Q	Usera	3076.1
+2006 3Q	Vicalvaro	3158.5
+2006 3Q	Villa de Vallecas	3113.1
+2006 3Q	Villaverde	2803.3
+2006 4Q	Arganzuela	3980.4
+2006 4Q	Barajas	3707.3
+2006 4Q	Carabanchel	3210.2
+2006 4Q	Centro	4304.5
+2006 4Q	Chamartin	4797.8
+2006 4Q	Chamberi	4829
+2006 4Q	Ciudad Lineal	3818.4
+2006 4Q	Fuencarral	3868.2
+2006 4Q	Hortaleza	3819.6
+2006 4Q	Latina	3223.4
+2006 4Q	Madrid	3996.5
+2006 4Q	Moncloa	4275.3
+2006 4Q	Moratalaz	3391.1
+2006 4Q	Puente de Vallecas	3138.2
+2006 4Q	Retiro	4397
+2006 4Q	Salamanca	4811.7
+2006 4Q	San Blas	3446.7
+2006 4Q	Tetuan	3954.3
+2006 4Q	Usera	3096.2
+2006 4Q	Vicalvaro	3169.5
+2006 4Q	Villa de Vallecas	3158.3
+2006 4Q	Villaverde	2867.5
+2007 1Q	Arganzuela	3970.8
+2007 1Q	Barajas	3687.7
+2007 1Q	Carabanchel	3227.7
+2007 1Q	Centro	4398.2
+2007 1Q	Chamartin	4860.6
+2007 1Q	Chamberi	4927.5
+2007 1Q	Ciudad Lineal	3788.4
+2007 1Q	Fuencarral	3920.5
+2007 1Q	Hortaleza	3840.2
+2007 1Q	Latina	3239.5
+2007 1Q	Madrid	4030.1
+2007 1Q	Moncloa	4308.1
+2007 1Q	Moratalaz	3353.4
+2007 1Q	Puente de Vallecas	3138.2
+2007 1Q	Retiro	4420.8
+2007 1Q	Salamanca	4995.3
+2007 1Q	San Blas	3450.7
+2007 1Q	Tetuan	3960.7
+2007 1Q	Usera	3030.6
+2007 1Q	Vicalvaro	3091.4
+2007 1Q	Villa de Vallecas	3175.9
+2007 1Q	Villaverde	2831.8
+2007 2Q	Arganzuela	3927
+2007 2Q	Barajas	3730.2
+2007 2Q	Carabanchel	3182.9
+2007 2Q	Centro	4454.4
+2007 2Q	Chamartin	4884.6
+2007 2Q	Chamberi	4941.8
+2007 2Q	Ciudad Lineal	3762
+2007 2Q	Fuencarral	3916.6
+2007 2Q	Hortaleza	3870.8
+2007 2Q	Latina	3213.8
+2007 2Q	Madrid	4034.7
+2007 2Q	Moncloa	4386
+2007 2Q	Moratalaz	3375.1
+2007 2Q	Puente de Vallecas	3088.7
+2007 2Q	Retiro	4418.4
+2007 2Q	Salamanca	5001
+2007 2Q	San Blas	3453.6
+2007 2Q	Tetuan	3921.9
+2007 2Q	Usera	3021.4
+2007 2Q	Vicalvaro	3124.4
+2007 2Q	Villa de Vallecas	3091.4
+2007 2Q	Villaverde	2829.6
+2007 3Q	Arganzuela	3913.5
+2007 3Q	Barajas	3651.2
+2007 3Q	Carabanchel	3147.7
+2007 3Q	Centro	4404.7
+2007 3Q	Chamartin	4913.4
+2007 3Q	Chamberi	4909.5
+2007 3Q	Ciudad Lineal	3768.8
+2007 3Q	Fuencarral	3891.6
+2007 3Q	Hortaleza	3878.4
+2007 3Q	Latina	3161.6
+2007 3Q	Madrid	3999.7
+2007 3Q	Moncloa	4430
+2007 3Q	Moratalaz	3327.1
+2007 3Q	Puente de Vallecas	3040.4
+2007 3Q	Retiro	4417.8
+2007 3Q	Salamanca	5082.3
+2007 3Q	San Blas	3392
+2007 3Q	Tetuan	3920.1
+2007 3Q	Usera	3019.7
+2007 3Q	Vicalvaro	3122.3
+2007 3Q	Villa de Vallecas	3140.8
+2007 3Q	Villaverde	2839.8
+2007 4Q	Arganzuela	3893.9
+2007 4Q	Barajas	3638.1
+2007 4Q	Carabanchel	3103
+2007 4Q	Centro	4421.6
+2007 4Q	Chamartin	4931
+2007 4Q	Chamberi	4982.2
+2007 4Q	Ciudad Lineal	3725.5
+2007 4Q	Fuencarral	3832.7
+2007 4Q	Hortaleza	3910.2
+2007 4Q	Latina	3105.6
+2007 4Q	Madrid	3985.5
+2007 4Q	Moncloa	4362.3
+2007 4Q	Moratalaz	3233.8
+2007 4Q	Puente de Vallecas	3031.1
+2007 4Q	Retiro	4402.4
+2007 4Q	Salamanca	5015.4
+2007 4Q	San Blas	3350.2
+2007 4Q	Tetuan	3936.3
+2007 4Q	Usera	2994.5
+2007 4Q	Vicalvaro	3157.9
+2007 4Q	Villa de Vallecas	3084.2
+2007 4Q	Villaverde	2803.8
+2008 1Q	Arganzuela	3854.7
+2008 1Q	Barajas	3636.7
+2008 1Q	Carabanchel	3066.7
+2008 1Q	Centro	4387.2
+2008 1Q	Chamartin	4969.8
+2008 1Q	Chamberi	4985
+2008 1Q	Ciudad Lineal	3763.9
+2008 1Q	Fuencarral	3839.3
+2008 1Q	Hortaleza	3950
+2008 1Q	Latina	3071.5
+2008 1Q	Madrid	3982.2
+2008 1Q	Moncloa	4395.6
+2008 1Q	Moratalaz	3224.8
+2008 1Q	Puente de Vallecas	2990.8
+2008 1Q	Retiro	4426.5
+2008 1Q	Salamanca	5054.5
+2008 1Q	San Blas	3337.3
+2008 1Q	Tetuan	3901.4
+2008 1Q	Usera	2959.7
+2008 1Q	Vicalvaro	3120.2
+2008 1Q	Villa de Vallecas	3063
+2008 1Q	Villaverde	2767.6
+2008 2Q	Arganzuela	3721.2
+2008 2Q	Barajas	3601.9
+2008 2Q	Carabanchel	2966.4
+2008 2Q	Centro	4303.1
+2008 2Q	Chamartin	4939
+2008 2Q	Chamberi	4885.7
+2008 2Q	Ciudad Lineal	3701.8
+2008 2Q	Fuencarral	3720.1
+2008 2Q	Hortaleza	3853
+2008 2Q	Latina	2971.4
+2008 2Q	Madrid	3898.6
+2008 2Q	Moncloa	4313.7
+2008 2Q	Moratalaz	3142
+2008 2Q	Puente de Vallecas	2840.6
+2008 2Q	Retiro	4372.3
+2008 2Q	Salamanca	5040.8
+2008 2Q	San Blas	3205.5
+2008 2Q	Tetuan	3806.8
+2008 2Q	Usera	2857.7
+2008 2Q	Vicalvaro	2966.2
+2008 2Q	Villa de Vallecas	2925.8
+2008 2Q	Villaverde	2610.8
+2008 3Q	Arganzuela	3624.5
+2008 3Q	Barajas	3518.5
+2008 3Q	Carabanchel	2843.8
+2008 3Q	Centro	4137.1
+2008 3Q	Chamartin	5028.8
+2008 3Q	Chamberi	4790.3
+2008 3Q	Ciudad Lineal	3679.3
+2008 3Q	Fuencarral	3665.7
+2008 3Q	Hortaleza	3867.5
+2008 3Q	Latina	2857.2
+2008 3Q	Madrid	3839.7
+2008 3Q	Moncloa	4238.3
+2008 3Q	Moratalaz	3019.5
+2008 3Q	Puente de Vallecas	2736.7
+2008 3Q	Retiro	4313.3
+2008 3Q	Salamanca	5166.9
+2008 3Q	San Blas	3142.4
+2008 3Q	Tetuan	3740
+2008 3Q	Usera	2786
+2008 3Q	Vicalvaro	2819.5
+2008 3Q	Villa de Vallecas	2830.2
+2008 3Q	Villaverde	2503.5
+2008 4Q	Arganzuela	3550.7
+2008 4Q	Barajas	3397.8
+2008 4Q	Carabanchel	2790.6
+2008 4Q	Centro	4092.5
+2008 4Q	Chamartin	4979.1
+2008 4Q	Chamberi	4693.4
+2008 4Q	Ciudad Lineal	3567
+2008 4Q	Fuencarral	3612
+2008 4Q	Hortaleza	3888.9
+2008 4Q	Latina	2777.1
+2008 4Q	Madrid	3781.5
+2008 4Q	Moncloa	4135.2
+2008 4Q	Moratalaz	2891.6
+2008 4Q	Puente de Vallecas	2610.7
+2008 4Q	Retiro	4211.7
+2008 4Q	Salamanca	5201.8
+2008 4Q	San Blas	3097.7
+2008 4Q	Tetuan	3656.8
+2008 4Q	Usera	2659.3
+2008 4Q	Vicalvaro	2769.1
+2008 4Q	Villa de Vallecas	2779.9
+2008 4Q	Villaverde	2432.9
+2009 1Q	Arganzuela	3436
+2009 1Q	Barajas	3276.4
+2009 1Q	Carabanchel	2679.9
+2009 1Q	Centro	3988.2
+2009 1Q	Chamartin	4822.2
+2009 1Q	Chamberi	4668.1
+2009 1Q	Ciudad Lineal	3540.2
+2009 1Q	Fuencarral	3589.9
+2009 1Q	Hortaleza	3835.8
+2009 1Q	Latina	2658.6
+2009 1Q	Madrid	3719
+2009 1Q	Moncloa	4143.6
+2009 1Q	Moratalaz	2834.8
+2009 1Q	Puente de Vallecas	2493.1
+2009 1Q	Retiro	4192.2
+2009 1Q	Salamanca	5054.9
+2009 1Q	San Blas	2987.9
+2009 1Q	Tetuan	3558.8
+2009 1Q	Usera	2584.7
+2009 1Q	Vicalvaro	2692.5
+2009 1Q	Villa de Vallecas	2684.2
+2009 1Q	Villaverde	2343.7
+2009 2Q	Arganzuela	3408.1
+2009 2Q	Barajas	3254.1
+2009 2Q	Carabanchel	2622.2
+2009 2Q	Centro	3896.5
+2009 2Q	Chamartin	4760
+2009 2Q	Chamberi	4681.2
+2009 2Q	Ciudad Lineal	3480.2
+2009 2Q	Fuencarral	3557.5
+2009 2Q	Hortaleza	3822.8
+2009 2Q	Latina	2615.2
+2009 2Q	Madrid	3697.3
+2009 2Q	Moncloa	4087
+2009 2Q	Moratalaz	2757.4
+2009 2Q	Puente de Vallecas	2442
+2009 2Q	Retiro	4161
+2009 2Q	Salamanca	5022.7
+2009 2Q	San Blas	2932.2
+2009 2Q	Tetuan	3525.4
+2009 2Q	Usera	2510
+2009 2Q	Vicalvaro	2586.8
+2009 2Q	Villa de Vallecas	2646.1
+2009 2Q	Villaverde	2311.8
+2009 3Q	Arganzuela	3392.8
+2009 3Q	Barajas	3304.9
+2009 3Q	Carabanchel	2623.7
+2009 3Q	Centro	3897.3
+2009 3Q	Chamartin	4789.6
+2009 3Q	Chamberi	4737.2
+2009 3Q	Ciudad Lineal	3512
+2009 3Q	Fuencarral	3515.4
+2009 3Q	Hortaleza	3782.1
+2009 3Q	Latina	2577.1
+2009 3Q	Madrid	3651.7
+2009 3Q	Moncloa	4076.3
+2009 3Q	Moratalaz	2717
+2009 3Q	Puente de Vallecas	2390.4
+2009 3Q	Retiro	4186.6
+2009 3Q	Salamanca	4917.6
+2009 3Q	San Blas	2928
+2009 3Q	Tetuan	3478.7
+2009 3Q	Usera	2469.4
+2009 3Q	Vicalvaro	2552.4
+2009 3Q	Villa de Vallecas	2616.8
+2009 3Q	Villaverde	2289.1
+2009 4Q	Arganzuela	3356.8
+2009 4Q	Barajas	3273.1
+2009 4Q	Carabanchel	2590.3
+2009 4Q	Centro	3891.2
+2009 4Q	Chamartin	4784.3
+2009 4Q	Chamberi	4686.2
+2009 4Q	Ciudad Lineal	3435.8
+2009 4Q	Fuencarral	3496.3
+2009 4Q	Hortaleza	3787.2
+2009 4Q	Latina	2517.1
+2009 4Q	Madrid	3623.5
+2009 4Q	Moncloa	4063.2
+2009 4Q	Moratalaz	2690.9
+2009 4Q	Puente de Vallecas	2355.1
+2009 4Q	Retiro	4141.7
+2009 4Q	Salamanca	4867.1
+2009 4Q	San Blas	2885.7
+2009 4Q	Tetuan	3454.4
+2009 4Q	Usera	2399.4
+2009 4Q	Vicalvaro	2571.4
+2009 4Q	Villa de Vallecas	2579.2
+2009 4Q	Villaverde	2269.9
+2010 1Q	Arganzuela	3345.2
+2010 1Q	Barajas	3290.7
+2010 1Q	Carabanchel	2557.3
+2010 1Q	Centro	3825.1
+2010 1Q	Chamartin	4744.3
+2010 1Q	Chamberi	4712.9
+2010 1Q	Ciudad Lineal	3363.1
+2010 1Q	Fuencarral	3453.3
+2010 1Q	Hortaleza	3729
+2010 1Q	Latina	2487.8
+2010 1Q	Madrid	3598.5
+2010 1Q	Moncloa	4014
+2010 1Q	Moratalaz	2636.7
+2010 1Q	Puente de Vallecas	2292.9
+2010 1Q	Retiro	4189.3
+2010 1Q	Salamanca	4865.6
+2010 1Q	San Blas	2846.8
+2010 1Q	Tetuan	3446.6
+2010 1Q	Usera	2362.9
+2010 1Q	Vicalvaro	2612.9
+2010 1Q	Villa de Vallecas	2555.3
+2010 1Q	Villaverde	2203.5
+2010 2Q	Arganzuela	3317.3
+2010 2Q	Barajas	3186.8
+2010 2Q	Carabanchel	2481.1
+2010 2Q	Centro	3739.7
+2010 2Q	Chamartin	4788.1
+2010 2Q	Chamberi	4686.1
+2010 2Q	Ciudad Lineal	3335.7
+2010 2Q	Fuencarral	3425.6
+2010 2Q	Hortaleza	3711.7
+2010 2Q	Latina	2457.9
+2010 2Q	Madrid	3582.3
+2010 2Q	Moncloa	3986.6
+2010 2Q	Moratalaz	2617.5
+2010 2Q	Puente de Vallecas	2236.7
+2010 2Q	Retiro	4234.6
+2010 2Q	Salamanca	4818.2
+2010 2Q	San Blas	2764.2
+2010 2Q	Tetuan	3420
+2010 2Q	Usera	2298.8
+2010 2Q	Vicalvaro	2533.2
+2010 2Q	Villa de Vallecas	2462.5
+2010 2Q	Villaverde	2143.3
+2010 3Q	Arganzuela	3349.8
+2010 3Q	Barajas	3240.5
+2010 3Q	Carabanchel	2439.7
+2010 3Q	Centro	3758.5
+2010 3Q	Chamartin	4693.8
+2010 3Q	Chamberi	4604.4
+2010 3Q	Ciudad Lineal	3310.5
+2010 3Q	Fuencarral	3437.8
+2010 3Q	Hortaleza	3705.2
+2010 3Q	Latina	2453.1
+2010 3Q	Madrid	3534.5
+2010 3Q	Moncloa	3932.4
+2010 3Q	Moratalaz	2607.7
+2010 3Q	Puente de Vallecas	2215.7
+2010 3Q	Retiro	4320.5
+2010 3Q	Salamanca	4789.1
+2010 3Q	San Blas	2767.7
+2010 3Q	Tetuan	3423.4
+2010 3Q	Usera	2274.7
+2010 3Q	Vicalvaro	2496.4
+2010 3Q	Villa de Vallecas	2502.1
+2010 3Q	Villaverde	2113
+2010 4Q	Arganzuela	3275.8
+2010 4Q	Barajas	3212.4
+2010 4Q	Carabanchel	2384.7
+2010 4Q	Centro	3786
+2010 4Q	Chamartin	4557.4
+2010 4Q	Chamberi	4479.1
+2010 4Q	Ciudad Lineal	3249.2
+2010 4Q	Fuencarral	3456.1
+2010 4Q	Hortaleza	3573.3
+2010 4Q	Latina	2404.1
+2010 4Q	Madrid	3460.3
+2010 4Q	Moncloa	3893.5
+2010 4Q	Moratalaz	2574
+2010 4Q	Puente de Vallecas	2154.9
+2010 4Q	Retiro	4126.6
+2010 4Q	Salamanca	4737
+2010 4Q	San Blas	2745.7
+2010 4Q	Tetuan	3369
+2010 4Q	Usera	2245.3
+2010 4Q	Vicalvaro	2463.7
+2010 4Q	Villa de Vallecas	2479.6
+2010 4Q	Villaverde	2041.7
+2011 1Q	Arganzuela	3250.1
+2011 1Q	Barajas	3178.9
+2011 1Q	Carabanchel	2330.3
+2011 1Q	Centro	3727.8
+2011 1Q	Chamartin	4498.3
+2011 1Q	Chamberi	4445.2
+2011 1Q	Ciudad Lineal	3209.5
+2011 1Q	Fuencarral	3401.3
+2011 1Q	Hortaleza	3478.2
+2011 1Q	Latina	2316.7
+2011 1Q	Madrid	3393.4
+2011 1Q	Moncloa	3841.5
+2011 1Q	Moratalaz	2487.8
+2011 1Q	Puente de Vallecas	2099.7
+2011 1Q	Retiro	4169.1
+2011 1Q	Salamanca	4563.6
+2011 1Q	San Blas	2682.7
+2011 1Q	Tetuan	3290.7
+2011 1Q	Usera	2167.3
+2011 1Q	Vicalvaro	2378.5
+2011 1Q	Villa de Vallecas	2471.9
+2011 1Q	Villaverde	1941.6
+2011 2Q	Arganzuela	3161
+2011 2Q	Barajas	3140
+2011 2Q	Carabanchel	2247.5
+2011 2Q	Centro	3596.2
+2011 2Q	Chamartin	4492.9
+2011 2Q	Chamberi	4355.6
+2011 2Q	Ciudad Lineal	3144
+2011 2Q	Fuencarral	3316.9
+2011 2Q	Hortaleza	3385.3
+2011 2Q	Latina	2251.1
+2011 2Q	Madrid	3342.9
+2011 2Q	Moncloa	3810.8
+2011 2Q	Moratalaz	2450.8
+2011 2Q	Puente de Vallecas	2008
+2011 2Q	Retiro	4119.7
+2011 2Q	Salamanca	4562.8
+2011 2Q	San Blas	2624.3
+2011 2Q	Tetuan	3254.3
+2011 2Q	Usera	2121.6
+2011 2Q	Vicalvaro	2334.1
+2011 2Q	Villa de Vallecas	2430
+2011 2Q	Villaverde	1908.9
+2011 3Q	Arganzuela	3122.5
+2011 3Q	Barajas	3035
+2011 3Q	Carabanchel	2221.3
+2011 3Q	Centro	3602.7
+2011 3Q	Chamartin	4422.9
+2011 3Q	Chamberi	4308.6
+2011 3Q	Ciudad Lineal	3166.1
+2011 3Q	Fuencarral	3265
+2011 3Q	Hortaleza	3378.3
+2011 3Q	Latina	2222.7
+2011 3Q	Madrid	3322.5
+2011 3Q	Moncloa	3763.2
+2011 3Q	Moratalaz	2388.2
+2011 3Q	Puente de Vallecas	1959.6
+2011 3Q	Retiro	4096.7
+2011 3Q	Salamanca	4616.5
+2011 3Q	San Blas	2608.8
+2011 3Q	Tetuan	3201.3
+2011 3Q	Usera	2019.6
+2011 3Q	Vicalvaro	2317.4
+2011 3Q	Villa de Vallecas	2394.9
+2011 3Q	Villaverde	1863.4
+2011 4Q	Arganzuela	3063.2
+2011 4Q	Barajas	3024.1
+2011 4Q	Carabanchel	2127.3
+2011 4Q	Centro	3574.8
+2011 4Q	Chamartin	4314.4
+2011 4Q	Chamberi	4227.5
+2011 4Q	Ciudad Lineal	3078.3
+2011 4Q	Fuencarral	3211.1
+2011 4Q	Hortaleza	3345.6
+2011 4Q	Latina	2133.6
+2011 4Q	Madrid	3252.3
+2011 4Q	Moncloa	3678.8
+2011 4Q	Moratalaz	2297.5
+2011 4Q	Puente de Vallecas	1811.7
+2011 4Q	Retiro	3956.6
+2011 4Q	Salamanca	4503.6
+2011 4Q	San Blas	2529.9
+2011 4Q	Tetuan	3103.9
+2011 4Q	Usera	1941.7
+2011 4Q	Vicalvaro	2238.4
+2011 4Q	Villa de Vallecas	2336
+2011 4Q	Villaverde	1752.8
+2012 1Q	Arganzuela	3022.8
+2012 1Q	Barajas	3022.8
+2012 1Q	Carabanchel	2067.6
+2012 1Q	Centro	3484
+2012 1Q	Chamartin	4216.4
+2012 1Q	Chamberi	4189.5
+2012 1Q	Ciudad Lineal	3009.1
+2012 1Q	Fuencarral	3120.9
+2012 1Q	Hortaleza	3222.5
+2012 1Q	Latina	2050
+2012 1Q	Madrid	3194.6
+2012 1Q	Moncloa	3602
+2012 1Q	Moratalaz	2248
+2012 1Q	Puente de Vallecas	1757.6
+2012 1Q	Retiro	3769.6
+2012 1Q	Salamanca	4388.3
+2012 1Q	San Blas	2477.8
+2012 1Q	Tetuan	2996.1
+2012 1Q	Usera	1877.2
+2012 1Q	Vicalvaro	2167.4
+2012 1Q	Villa de Vallecas	2266.7
+2012 1Q	Villaverde	1667.2
+2012 2Q	Arganzuela	2897.7
+2012 2Q	Barajas	2928.2
+2012 2Q	Carabanchel	1980.8
+2012 2Q	Centro	3389.7
+2012 2Q	Chamartin	4127.9
+2012 2Q	Chamberi	4055.1
+2012 2Q	Ciudad Lineal	2927.5
+2012 2Q	Fuencarral	3015.6
+2012 2Q	Hortaleza	3115.9
+2012 2Q	Latina	2003.7
+2012 2Q	Madrid	3107
+2012 2Q	Moncloa	3498.1
+2012 2Q	Moratalaz	2178.4
+2012 2Q	Puente de Vallecas	1711.6
+2012 2Q	Retiro	3661.4
+2012 2Q	Salamanca	4267
+2012 2Q	San Blas	2371.8
+2012 2Q	Tetuan	2920.4
+2012 2Q	Usera	1806.8
+2012 2Q	Vicalvaro	2041
+2012 2Q	Villa de Vallecas	2182.9
+2012 2Q	Villaverde	1593.2
+2012 3Q	Arganzuela	2790.2
+2012 3Q	Barajas	2869.5
+2012 3Q	Carabanchel	1874.8
+2012 3Q	Centro	3311.6
+2012 3Q	Chamartin	4028.3
+2012 3Q	Chamberi	3930.1
+2012 3Q	Ciudad Lineal	2819.6
+2012 3Q	Fuencarral	2947.7
+2012 3Q	Hortaleza	3033.8
+2012 3Q	Latina	1909.3
+2012 3Q	Madrid	3078.5
+2012 3Q	Moncloa	3440.1
+2012 3Q	Moratalaz	2097.8
+2012 3Q	Puente de Vallecas	1622.2
+2012 3Q	Retiro	3610.5
+2012 3Q	Salamanca	4297.2
+2012 3Q	San Blas	2294.4
+2012 3Q	Tetuan	2818.7
+2012 3Q	Usera	1739.4
+2012 3Q	Vicalvaro	1864
+2012 3Q	Villa de Vallecas	2163.4
+2012 3Q	Villaverde	1520.3
+2012 4Q	Arganzuela	2689.8
+2012 4Q	Barajas	2776.7
+2012 4Q	Carabanchel	1820.6
+2012 4Q	Centro	3202.3
+2012 4Q	Chamartin	3964.6
+2012 4Q	Chamberi	3772.2
+2012 4Q	Ciudad Lineal	2728.9
+2012 4Q	Fuencarral	2835
+2012 4Q	Hortaleza	2950.7
+2012 4Q	Latina	1821.2
+2012 4Q	Madrid	3000.5
+2012 4Q	Moncloa	3295.3
+2012 4Q	Moratalaz	2012.9
+2012 4Q	Puente de Vallecas	1570
+2012 4Q	Retiro	3460.5
+2012 4Q	Salamanca	4172.8
+2012 4Q	San Blas	2175.7
+2012 4Q	Tetuan	2723.7
+2012 4Q	Usera	1689
+2012 4Q	Vicalvaro	1794.5
+2012 4Q	Villa de Vallecas	2083.3
+2012 4Q	Villaverde	1491.7
+2013 1Q	Arganzuela	2679.7
+2013 1Q	Barajas	2774.9
+2013 1Q	Carabanchel	1798.7
+2013 1Q	Centro	3154.8
+2013 1Q	Chamartin	3873.1
+2013 1Q	Chamberi	3660
+2013 1Q	Ciudad Lineal	2660.4
+2013 1Q	Fuencarral	2788.4
+2013 1Q	Hortaleza	2957.5
+2013 1Q	Latina	1802.8
+2013 1Q	Madrid	2946
+2013 1Q	Moncloa	3218.1
+2013 1Q	Moratalaz	1943.5
+2013 1Q	Puente de Vallecas	1538.3
+2013 1Q	Retiro	3404.8
+2013 1Q	Salamanca	4040.2
+2013 1Q	San Blas	2111.8
+2013 1Q	Tetuan	2725.7
+2013 1Q	Usera	1656
+2013 1Q	Vicalvaro	1801.9
+2013 1Q	Villa de Vallecas	2078
+2013 1Q	Villaverde	1441.3
+2013 2Q	Arganzuela	2583.8
+2013 2Q	Barajas	2625.2
+2013 2Q	Carabanchel	1739.9
+2013 2Q	Centro	3080.9
+2013 2Q	Chamartin	3820.4
+2013 2Q	Chamberi	3624.9
+2013 2Q	Ciudad Lineal	2593.3
+2013 2Q	Fuencarral	2717.5
+2013 2Q	Hortaleza	2965.1
+2013 2Q	Latina	1763.6
+2013 2Q	Madrid	2922.7
+2013 2Q	Moncloa	3147.2
+2013 2Q	Moratalaz	1940.2
+2013 2Q	Puente de Vallecas	1493.1
+2013 2Q	Retiro	3401.4
+2013 2Q	Salamanca	4005
+2013 2Q	San Blas	2089.4
+2013 2Q	Tetuan	2727.7
+2013 2Q	Usera	1590.5
+2013 2Q	Vicalvaro	1680.6
+2013 2Q	Villa de Vallecas	2012.2
+2013 2Q	Villaverde	1391.4
+2013 3Q	Arganzuela	2684.6
+2013 3Q	Barajas	2727.5
+2013 3Q	Carabanchel	1796.5
+2013 3Q	Centro	3434
+2013 3Q	Chamartin	3758.3
+2013 3Q	Chamberi	3681.9
+2013 3Q	Ciudad Lineal	2525
+2013 3Q	Fuencarral	2885
+2013 3Q	Hortaleza	3021
+2013 3Q	Latina	1925.8
+2013 3Q	Madrid	2835.8
+2013 3Q	Moncloa	3324.4
+2013 3Q	Moratalaz	1999.4
+2013 3Q	Puente de Vallecas	1627
+2013 3Q	Retiro	3538.9
+2013 3Q	Salamanca	4147.7
+2013 3Q	San Blas	2258.5
+2013 3Q	Tetuan	2730.1
+2013 3Q	Usera	1745.4
+2013 3Q	Vicalvaro	1710.5
+2013 3Q	Villa de Vallecas	2286.2
+2013 3Q	Villaverde	1475.5
+2013 4Q	Arganzuela	2796.7
+2013 4Q	Barajas	2763.6
+2013 4Q	Carabanchel	1857.1
+2013 4Q	Centro	3354.2
+2013 4Q	Chamartin	3747.1
+2013 4Q	Chamberi	3566.8
+2013 4Q	Ciudad Lineal	2630.7
+2013 4Q	Fuencarral	2805
+2013 4Q	Hortaleza	3016.6
+2013 4Q	Latina	1878.8
+2013 4Q	Madrid	2823.6
+2013 4Q	Moncloa	3333.8
+2013 4Q	Moratalaz	2037.6
+2013 4Q	Puente de Vallecas	1617.9
+2013 4Q	Retiro	3322
+2013 4Q	Salamanca	4115.9
+2013 4Q	San Blas	2206
+2013 4Q	Tetuan	2642.7
+2013 4Q	Usera	1677.9
+2013 4Q	Vicalvaro	1824.6
+2013 4Q	Villa de Vallecas	2168
+2013 4Q	Villaverde	1407.5
+2014 1Q	Arganzuela	2827.8
+2014 1Q	Barajas	2828.3
+2014 1Q	Carabanchel	1798.2
+2014 1Q	Centro	3412
+2014 1Q	Chamartin	3735.3
+2014 1Q	Chamberi	3683.3
+2014 1Q	Ciudad Lineal	2666.1
+2014 1Q	Fuencarral	2820.8
+2014 1Q	Hortaleza	2956
+2014 1Q	Latina	1857.1
+2014 1Q	Madrid	2774.8
+2014 1Q	Moncloa	3311.9
+2014 1Q	Moratalaz	2078.7
+2014 1Q	Puente de Vallecas	1607.9
+2014 1Q	Retiro	3374.2
+2014 1Q	Salamanca	4247.5
+2014 1Q	San Blas	2151.8
+2014 1Q	Tetuan	2701
+2014 1Q	Usera	1646.6
+2014 1Q	Vicalvaro	1835.8
+2014 1Q	Villa de Vallecas	2183.1
+2014 1Q	Villaverde	1298.6
+2014 2Q	Arganzuela	2684.8
+2014 2Q	Barajas	2715.9
+2014 2Q	Carabanchel	1698.3
+2014 2Q	Centro	3337.4
+2014 2Q	Chamartin	3674.1
+2014 2Q	Chamberi	3643.7
+2014 2Q	Ciudad Lineal	2581.8
+2014 2Q	Fuencarral	2678.1
+2014 2Q	Hortaleza	2781.6
+2014 2Q	Latina	1722.7
+2014 2Q	Madrid	2721.3
+2014 2Q	Moncloa	3256.9
+2014 2Q	Moratalaz	1968
+2014 2Q	Puente de Vallecas	1486.8
+2014 2Q	Retiro	3388.9
+2014 2Q	Salamanca	4129.6
+2014 2Q	San Blas	2031.6
+2014 2Q	Tetuan	2602
+2014 2Q	Usera	1500.1
+2014 2Q	Vicalvaro	1690.9
+2014 2Q	Villa de Vallecas	2010.4
+2014 2Q	Villaverde	1234.7
+2014 3Q	Arganzuela	2637.9
+2014 3Q	Barajas	2610.7
+2014 3Q	Carabanchel	1639.6
+2014 3Q	Centro	3276.2
+2014 3Q	Chamartin	3652.2
+2014 3Q	Chamberi	3628.6
+2014 3Q	Ciudad Lineal	2514
+2014 3Q	Fuencarral	2656.4
+2014 3Q	Hortaleza	2778.9
+2014 3Q	Latina	1677.3
+2014 3Q	Madrid	2701.9
+2014 3Q	Moncloa	3204
+2014 3Q	Moratalaz	1928.7
+2014 3Q	Puente de Vallecas	1456
+2014 3Q	Retiro	3364.8
+2014 3Q	Salamanca	4134.4
+2014 3Q	San Blas	2014.6
+2014 3Q	Tetuan	2566.7
+2014 3Q	Usera	1474.8
+2014 3Q	Vicalvaro	1692.8
+2014 3Q	Villa de Vallecas	1987.7
+2014 3Q	Villaverde	1217.9
+2014 4Q	Arganzuela	2653.3
+2014 4Q	Barajas	2583.1
+2014 4Q	Carabanchel	1601.7
+2014 4Q	Centro	3284.7
+2014 4Q	Chamartin	3716.6
+2014 4Q	Chamberi	3629.9
+2014 4Q	Ciudad Lineal	2463.8
+2014 4Q	Fuencarral	2655.6
+2014 4Q	Hortaleza	2765.2
+2014 4Q	Latina	1590.4
+2014 4Q	Madrid	2694.2
+2014 4Q	Moncloa	3156.9
+2014 4Q	Moratalaz	1952.1
+2014 4Q	Puente de Vallecas	1396.3
+2014 4Q	Retiro	3273.8
+2014 4Q	Salamanca	4137.7
+2014 4Q	San Blas	1983.3
+2014 4Q	Tetuan	2544.9
+2014 4Q	Usera	1470.5
+2014 4Q	Vicalvaro	1692.4
+2014 4Q	Villa de Vallecas	1914
+2014 4Q	Villaverde	1238.5

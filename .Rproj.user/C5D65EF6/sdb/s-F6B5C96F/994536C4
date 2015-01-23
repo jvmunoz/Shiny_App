@@ -1,0 +1,16 @@
+{
+    "contents" : "library(shiny)\nlibrary(forecast)\n\nPreciosMadrid <- read.table(\"PreciosMadrid.txt\", sep=\"\\t\", header=TRUE)\nPreciosMadrid$Quarter<-as.yearqtr(PreciosMadrid$Quarter, format = \"%Y %q\")\nPreciosMadrid <- PreciosMadrid[order(PreciosMadrid$District, PreciosMadrid$Quarter),]\n\nshinyServer(function(input, output) {\n        \n        getDataset <- reactive({\n                return(ts(subset(PreciosMadrid, District==input$variable)[,3],frequency=4,start=c(2001,1)))\n        })\n        \n        output$caption <- renderText({\n                paste(\"District: \", input$variable)\n        })\n        \n        output$dcompPlot <- renderPlot({\n                ds_ts <- ts(getDataset(), frequency=4)\n                f <- decompose(ds_ts)\n                plot(f)\n        })\n        \n        output$arimaForecastPlot <- renderPlot({\n                fit <- auto.arima(getDataset(), stationary = TRUE, seasonal = FALSE,ic=\"aic\")\n                plot(forecast(fit, h=input$ahead))\n        })\n        \n        output$etsForecastPlot <- renderPlot({\n                fit <- ets(getDataset())\n                plot(forecast(fit, h=input$ahead))\n        })\n        \n        output$data <- renderTable({\n                getDataset()\n                              \n        })\n})",
+    "created" : 1420846003696.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3164647194",
+    "id" : "994536C4",
+    "lastKnownWriteTime" : 1421577318,
+    "path" : "C:/Users/JoseVicente/Desktop/Data Science/Johns Hopkins/Developing Data Products/Shiny App/Shiny App/server.R",
+    "project_path" : "server.R",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
