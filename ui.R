@@ -11,7 +11,7 @@ shinyUI(pageWithSidebar(
                 
                 helpText("Shows the evolution of house prices in Madrid 
                          for different districts since 2001 by quarter and 
-                         forecast its possible evolution for a selected number of quarters."),
+                         forecasts its possible evolution for a selected number of quarters."),
                 helpText("Source for historical data: idealista.com"),
                 
                 selectInput("variable", "Select a Madrid District:",
@@ -52,7 +52,7 @@ shinyUI(pageWithSidebar(
                 h3(textOutput("caption"), align="center"),
                 
                 tabsetPanel(
-                        tabPanel("Exponetial Smoothing (ETS) Forecast", plotOutput("etsForecastPlot")), 
+                        tabPanel("Exponential Smoothing (ETS) Forecast", plotOutput("etsForecastPlot")), 
                         tabPanel("Arima Forecast", plotOutput("arimaForecastPlot")),
                         tabPanel("Timeseries Decomposition", plotOutput("dcompPlot")),
                         tabPanel("Data", tableOutput("data"))
